@@ -1,6 +1,6 @@
-# DROWSINESS-DETECTION
+# DRIVER DROWSINESS-DETECTION USING YOLOV11
 This project utilizes YOLO V11 (You Only Look Once) deep learning model to detect signs of driver fatigue in real-time through facial feature analysis, ensuring enhanced road safety. 
-# Real-Time drowsiness Detection with YOLOv5 and PyTorch
+# Real-Time drowsiness Detection with YOLOv11 and PyTorch
 
 Identification of objects in an image considered a common assignment for the human brain, though not so trivial for a machine. Identification and localization of objects in photos is a computer vision task called ‘object detection’. One of the most popular algorithms to date for real-time object detection is YOLO (You Only Look Once).
 
